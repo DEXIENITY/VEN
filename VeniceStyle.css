@@ -1,0 +1,50 @@
+p{
+    text-align: center;
+}
+.FAC{
+    
+    font-size: 25px;
+    padding-right: 100px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 100px;
+    height: center;
+    margin-bottom: 15;
+    margin-top: 100px;
+    border-radius: 10px;
+    background-color: rgb(16, 115, 254);
+    transition: transform  0.5s;
+    cursor: pointer;
+    text-decoration: none;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+.FAC:hover{
+    opacity: 1;
+    transform: scale(1.5); 
+}
+
+.IG{
+    
+    font-size: 25px;
+    padding-right: 155px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 155px;
+    height: center;
+    margin-bottom: 40px;
+    margin-top: 30px;
+    border-radius: 10px;
+    background-color: rgb(227, 144, 19);
+    transition: transform .2s;
+    cursor: pointer;
+    text-decoration: none;
+    opacity: 0.6;
+  transition: 0.5s;
+}
+
+
+.IG:hover{
+   opacity: 1;
+   transform: scale(1.5);
+}
